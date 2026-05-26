@@ -1,6 +1,8 @@
 # companion-module-dpa-wireless
 
 [Bitfocus Companion](https://bitfocus.io/companion) module for controlling and monitoring DPA Microphones wireless systems via OSC over TCP.
+> **This was the original development repository for this module.**
+> It has since moved to [bitfocus/companion-module-dpa-wireless](https://github.com/bitfocus/companion-module-dpa-wireless) where it is now officially maintained.
 
 ## Supported Devices
 
